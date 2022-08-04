@@ -1,0 +1,14 @@
+.navbar{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color:  #111111;
+}
+
+.link{
+    margin-left: 5px;
+    text-transform: uppercase;
+    text-decoration:none ;
+    color: #FCFCFC;
+}
